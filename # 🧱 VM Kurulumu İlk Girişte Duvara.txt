@@ -1,0 +1,31 @@
+# 🧱 VM Kurulumu: İlk Girişte Duvara Toslamak
+
+## 🇹🇷 Türkçe – Başlangıçta Karşılaşılan Teknik Engeller
+
+İlk sanal makine kurulumum beklediğimden çok daha zorlu geçti. ISO dosyasını bağlamaya çalışırken hata aldım, grafik arayüz açılmadı, klavye ve mouse input'u çalışmadı, disk yapılandırmaları çakıştı. Her adımda yeni bir sorunla karşılaştım.
+
+🛠 Karşılaştığım başlıca sorunlar:
+- ISO bağlantı hataları  
+- Siyah ekran ve grafik arayüz eksikliği  
+- Donmuş input aygıtları  
+- Disk tanıma ve yapılandırma problemleri
+
+Bu zorluklar beni yıldırmadı. Her hatayı belgeleyerek üretim sürecine dönüştürdüm. Teknik refleksimi, sabrımı ve mizahımı bu süreçte yeniden tanımladım.
+
+> “Her hata, bir belgeye dönüşebilir. Her belge, üretimin tuğlasıdır.”
+
+---
+
+## 🇬🇧 English – First Encounter with Virtual Resistance
+
+My first attempt at setting up a virtual machine was far more challenging than expected. ISO files failed to mount, the graphical interface didn’t launch, input devices froze, and disk configurations conflicted. Each step revealed a new obstacle.
+
+🛠 Main issues encountered:
+- ISO mounting errors  
+- Missing GUI and black screen  
+- Frozen keyboard and mouse input  
+- Disk recognition and setup failures
+
+These challenges didn’t stop me. I documented every issue and turned frustration into a productive process. Through this, I reshaped my technical reflexes, patience, and humor.
+
+> “Every error can become a document. Every document is a brick of production.”
